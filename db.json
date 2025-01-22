@@ -1,40 +1,29 @@
 {
   "fruits": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Pineapple",
       "quantity": 15,
       "price": "400"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Watermelon",
       "quantity": 20,
       "price": "620"
     },
     {
       "id": 3,
-      "name": "Berry",
+      "name": "Kitkat",
       "quantity": 12,
-      "price": "528"
+      "price": "500"
     },
     {
       "id": 4,
-      "name": "Watermelon",
-      "quantity": 30,
-      "price": "584"
-    },
-    {
-      "id": 5,
-      "name": "cherry",
-      "quantity": 10,
-      "price": "505"
-    },
-    {
-      "id": 0,
-      "name": "Dairy Milk",
-      "quantity": 20,
-      "price": "250"
+      "name": "5 star",
+      "quantity": 24,
+      "price": "540"
     }
+    
   ]
 }

@@ -25,8 +25,8 @@ export class FruitService {
     return this.httpClient.put<Fruit>(`http://localhost:3000/fruits/${data.id}`,data)
   }
 
-  // delete(id: number){
-  //   return this.httpClient.delete<Fruit>(`http://localhost:3000/fruits/${id}`);
-  // }
+  delete(id: number){
+    return this.httpClient.delete<Fruit>(`http://localhost:3000/fruits/${id}`);
+  }
 
 }
